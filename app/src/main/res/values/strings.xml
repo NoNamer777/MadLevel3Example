@@ -14,4 +14,5 @@
     <string name="tv_add_reminder">Add your reminder</string>
     <string name="et_reminder_placeholder">Reminder name</string>
     <string name="btn_add_reminder_label">Add reminder</string>
+    <string name="not_valid_reminder">Invalid reminder</string>
 </resources>
